@@ -1,0 +1,39 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Compiled bytecode
+/bin/
+/target/
+
+# Dependency directories
+/lib/
+/libs/
+/jars/
+
+# Compiled Java files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# macOS
+.DS_Store
+
+# Linux
+.idea
+.vscode
