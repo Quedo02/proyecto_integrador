@@ -37,3 +37,6 @@ ehthumbs.db
 # Linux
 .idea
 .vscode
+
+*.class
+
